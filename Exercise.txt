@@ -1,0 +1,6 @@
+The terminal is an application that allows you to navigate or use your mac without the aid of a graphical user interface. For non-Apple machines, the ‘terminal’ can be referred to as the command line or the console.
+
+The major difference between Git and GitHub is Git is a version-control tool that is used on a users local device to manage projects, while GitHub is an online cloud-based platform that allows users to upload and download those projects that were local.
+
+We as a developer community use GitHub for a number of reasons. A few reasons that I think are important are: GitHub makes it easy to collaborate with multiple people on projects, it is a safe way to store multiple versions of a project while also keeping track of changes, and it is a great platform to showcase personal projects to the developer community.
+
